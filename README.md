@@ -61,25 +61,25 @@ Data preparation included age grouping, identifying top earners, cleaning missin
 • Salary vs Education – Master’s degree holders earn more.<br>
 • Leave Balance – Sales & Marketing roles have higher leave balances.
 
-### • Total Alive by Category
+### • Total Employees
 
-A bar and line chart displaying how many patients are alive across different age segments. Shows highest survival in the 51–60 group and lowest in 71+.
+Shows the total number of male employees in the organization.
 
-### • Average Serum Sodium by Age Group
+### • Male Employees
 
-A combined bar and line visual comparing the average serum sodium levels across age groups and its relation to survival outcomes.
+Displays how many male employees are working in the company.
 
-### • Total Alive by Age Group
+### • Female Employees
 
-A line/area chart illustrating survival distribution. Shows a clear decline in survival as age increases.
+Displays how many female employees are part of the workspace.
 
-### • Total Alive vs Diabetes Count
+### • Average Salary
 
-A stacked chart indicating how the presence of diabetes impacts survival in each age segment.
+Shows the average salary earned by employees.
 
-### • Gender Slicer
+### • Total Leave Balance
 
-Interactive buttons to filter the dashboard by male or female patients for targeted analysis.
+Displays the overall leave balance across all employees.
 
 ### 6. Business Impact and Insights
 
