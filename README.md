@@ -36,26 +36,30 @@ Data preparation included age grouping, identifying top earners, cleaning missin
 
 ### Business Problem
 
-Healthcare teams often lack an easy way to interpret survival trends and risk factors from raw clinical data. Identifying which age groups or health conditions contribute to higher mortality is critical.
+• HR teams need a simple way to view workforce patterns.<br>
+• Understanding roles, salaries, age groups, and leave usage is difficult without visuals.
 
 ### Goal of the Dashboard
 
-• To provide a visual analytical tool that highlights:<br>
-• Survival trends across age categories<br>
-• Influence of serum sodium levels on survival<br>
-• Impact of diabetes on patient outcomes<br>
-• Gender-based differences in survival<br>
-The dashboard supports early detection strategies and risk-based patient monitoring.
+• Show employee count by job role.<br>
+• Display gender split.<br>
+• Analyse age groups (majority aged 30–40).<br>
+• Identify highest-paid employees.<br>
+• Track company hiring growth.<br>
+• Compare salary by education level.<br>
+• Show leave balance differences across roles.
 
 ### Key Visuals Explained
 
 ### • KPI Cards
 
-• Alive Percentage<br>
-• Average Alive Value<br>
-• Total Alive<br>
-• Total Death<br>
-These metrics give an overall snapshot of patient outcomes.
+• Workforce by Job Title – Top roles like Packaging Associate, Production Operator, Sales Representative.<br>
+• Gender Split – Male vs Female employee count.<br>
+• Age Group Distribution – Majority between 30–40 years.<br>
+• Top Earners – Shows highest-paid employees.<br>
+• Company Growth – Hiring increased from 2017 to 2023.<br>
+• Salary vs Education – Master’s degree holders earn more.<br>
+• Leave Balance – Sales & Marketing roles have higher leave balances.
 
 ### • Total Alive by Category
 
@@ -79,13 +83,13 @@ Interactive buttons to filter the dashboard by male or female patients for targe
 
 ### 6. Business Impact and Insights
 
-• Survival probability decreases significantly in patients aged 71+.<br>
-• Serum sodium levels are strongly correlated with survival outcomes.<br>
-• Diabetes is a prominent risk factor in the 51–70 age groups.<br>
-• Gender filtering reveals differences in survival distribution and risk levels.<br>
-• Supports clinicians and researchers in making early diagnosis and targeted interventions.
+• Most employees are in the 30–40 age range.<br>
+• Sales & Marketing teams take more leave.<br>
+• Master’s degree holders have higher salary levels.<br>
+• Company has grown steadily from 2017–2023.<br>
+• Helps HR in planning hiring, salary structure, and leave management.
 
 
 ### 7. Screenshot
-![Dashboard Preview](https://github.com/adapakavya/Heart-disease-Dashboard/blob/main/heart_disease.png)
+![Dashboard Preview](https://github.com/adapakavya/HR-Dashboard/blob/main/Snapshot%20of%20HR.png)
 
